@@ -19,7 +19,8 @@
           
      3º Mientras probaba las distintas salidas descubri que con el GPIO16 podia mover un SG90, asi que ye tengo un cuarto
            Este GPIO produce un retardo notable, tanto al "arrancar" (sobre todo) como durante la ejecucion.
-           Y solo funciona con los SG90, creo que tiene que ver con que mis MG90 son de rotacion continua y al inicio solo dan vueltas y vueltas.
+           Y solo funciona con los SG90, creo que tiene que ver con que mis MG90 son de rotacion continua y al inicio 
+           solo dan vueltas y vueltas.
           
            Es facil de "eliminar" Busca AZUL y comenta las lineas, y si te vale solo con dos servos, pues quita SERVO3 tambien.
      
