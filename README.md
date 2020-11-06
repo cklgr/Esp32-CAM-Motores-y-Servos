@@ -1,5 +1,8 @@
 # Esp32-CAM-Motores-y-Servos
-
+     
+     ¡IMPORTANTE!
+     
+     PARA QUE COMPILE SIN ERRORES EL GESTOR DE TARJETA DEL ESP32 DE ESPRESSIF TIENE QUE SER LA VERSION 1.0.2
 
      Basado/Copiado/Ampliado(poco) desde este proyecto
       
